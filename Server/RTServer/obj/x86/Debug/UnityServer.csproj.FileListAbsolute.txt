@@ -1,0 +1,5 @@
+C:\Users\DEAN\Desktop\MMO_Server_CSharp-master\UnityServer\UnityServer\obj\x86\Debug\UnityServer.exe
+C:\Users\DEAN\Desktop\MMO_Server_CSharp-master\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+C:\Users\DEAN\Desktop\MMO_Server_CSharp-master\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+C:\Users\DEAN\Desktop\MMO_Server_CSharp-master\UnityServer\UnityServer\obj\x86\Debug\UnityServer.csprojResolveAssemblyReference.cache
+C:\Users\DEAN\Desktop\MMO_Server_CSharp-master\UnityServer\UnityServer\obj\x86\Debug\UnityServer.pdb

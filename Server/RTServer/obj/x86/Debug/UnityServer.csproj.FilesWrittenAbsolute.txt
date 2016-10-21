@@ -1,0 +1,5 @@
+/Users/Zach/Documents/Git Hub/Custom_MMO_Server/UnityServer/UnityServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Zach/Documents/Git Hub/Custom_MMO_Server/UnityServer/UnityServer/bin/Debug/UnityServer.exe.mdb
+/Users/Zach/Documents/Git Hub/Custom_MMO_Server/UnityServer/UnityServer/bin/Debug/UnityServer.exe
+/Users/Zach/Documents/Git Hub/Custom_MMO_Server/UnityServer/UnityServer/obj/x86/Debug/UnityServer.exe
+/Users/Zach/Documents/Git Hub/Custom_MMO_Server/UnityServer/UnityServer/obj/x86/Debug/UnityServer.exe.mdb
